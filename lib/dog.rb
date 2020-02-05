@@ -1,7 +1,8 @@
 class Dog 
-def name=(this_dogs_name)
-   @this_dogs_name = this_dogs_name
- end 
+  def fido.name do |d|
+    
+     @this_dogs_name = this_dogs_name
+  end 
 end 
 
 def name 
